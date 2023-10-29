@@ -1,6 +1,13 @@
-<p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=nipdep&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true" alt="nipdep's github stats"></a>
-  <p>
+[![](https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif)](https://nipdep.github.io/portfolio/)
+<p align="center">
+  <a href="nipun1deelaka@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nipun-deelaka"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/NipunDeelaka"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<h3 align="center"> Tools & Technologiy </h3>
+  <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white"/>
@@ -38,25 +45,11 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   </p>
+
+<h3 align="center">GitHub Stats.</h3>
+<p align="center">
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep&theme=tokyonight&hide_border=false" /></a>
 </p>
-<p>
-  Contact Informations :<br/>
-  <a href="nipun1deelaka@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://nipdep.github.io/portfolio/"><img src="https://img.shields.io/badge/WebSite-blue"/></a>
-  <a href="https://twitch.tv/mrstandu33"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nipun-deelaka"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/NipunDeelaka"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
-![](./profile-green.svg)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nipdep&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nipdep&icon=0&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
