@@ -1,4 +1,10 @@
-[![](https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif)](https://nipdep.github.io/portfolio/)
+<h2 align="center">NipDeP</h3>
+<p align="center">
+  <a href="https://nipdep.github.io/portfolio/">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" />
+  </a>
+</p>
+
 <p align="center">
   <a href="nipun1deelaka@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
@@ -48,7 +54,7 @@
 
 <h3 align="center">GitHub Stats.</h3>
 <p align="center">
-<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep&theme=tokyonight&hide_border=false" /></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep&theme=tokyonight&hide_border=false" /></a>
 </p>
 
 ---
