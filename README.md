@@ -54,7 +54,8 @@
 
 <h3 align="center">GitHub Stats.</h3>
 <p align="center">
-<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep&theme=tokyonight&hide_border=false" /></a>
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep" />
+            <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep" /></a>
 </p>
 
 ---
