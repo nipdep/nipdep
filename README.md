@@ -1,9 +1,10 @@
 <h2 align="center">NipDeP</h3>
-<p align="center">
-  <a href="https://nipdep.github.io/portfolio/">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*s7-847-cMWNrfnyH.gif" />
-  </a>
-</p>
+
+>👋 Hi, I’m Deelaka \
+👀 I’m interested in Explainable AI, Optimization Theory and Computer Vision \
+🌱 I’m currently learning Explainable AI and Causal Machine Learning \
+💞️ I’m looking to collaborate on OpenSource Projects \
+🧥 Welcome to visit [my portfolio](https://nipdep.github.io/portfolio/personal) for further information 
 
 <p align="center">
   <a href="nipun1deelaka@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
@@ -27,17 +28,8 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>   
     <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white"/>
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-    <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white"/>
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white"/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
@@ -47,16 +39,8 @@
     <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white"/>
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi"/>
-  </p>
 
-<h3 align="center">GitHub Stats.</h3>
-<p align="center">
-<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nipdep" />
-            <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nipdep" /></a>
-</p>
+  </p>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
